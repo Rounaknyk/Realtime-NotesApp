@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "394423586217",
+    "project_id": "pawsitive-myoa4l",
+    "storage_bucket": "pawsitive-myoa4l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394423586217:android:3983f5176e083d88eec8b8",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VGjAUjBqKw3W16Ozmc_RD_EQ6kTGlvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394423586217:android:a76e74600282c4ceeec8b8",
+        "android_client_info": {
+          "package_name": "com.pawsitive.pawsitive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VGjAUjBqKw3W16Ozmc_RD_EQ6kTGlvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394423586217:android:f8def9aa7016524eeec8b8",
+        "android_client_info": {
+          "package_name": "com.qchallan.qchallan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4VGjAUjBqKw3W16Ozmc_RD_EQ6kTGlvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
